@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/huihsinhsiao/myfirstproject/_apis/build/status%2Fhuihsinhsiao.pipelines-java?branchName=main)](https://dev.azure.com/huihsinhsiao/myfirstproject/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
